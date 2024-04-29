@@ -5,6 +5,8 @@
 
 * 학과 : 소프트웨어학과
 
+* 취미 : 축구, 소설 읽기
+
 
 <div align=center><h1>📚 STACKS</h1></div>
 
