@@ -20,6 +20,7 @@
 
 
   ![Gihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddf3341&show_icons=true&theme=dracula)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddf3341&layout=compact&theme=dracula)
 
 
 # 계정
