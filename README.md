@@ -19,4 +19,6 @@
   <br>
 
 
-<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=green"/>
+# 계정
+<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=green"/> [anan218@naver.com]
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> [https://github.com/ddf3341]
