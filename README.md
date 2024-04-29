@@ -8,8 +8,6 @@
 * 취미 : 축구, 소설 읽기
 
 
- ![Gihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddf3341&show_icons=true&theme=dracula)
-
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
@@ -19,7 +17,9 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
-  
+
+![Gihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddf3341&show_icons=true&theme=dracula)
+
 
 # 계정
 <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=green"/> [anan218@naver.com]
